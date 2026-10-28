@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\competencia_algoritmos\\ejercicios secuenciales\\src\\ejr01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332DD718-0D03-4E74-9E52-135EA43A2BD9}|ejr01\\ejr01.csproj|d:\\competencia_algoritmos\\ejercicios secuenciales\\src\\ejr01\\ejr01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332DD718-0D03-4E74-9E52-135EA43A2BD9}|ejr01\\ejr01.csproj|solutionrelative:ejr01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\competencia_algoritmos\\ejercicios secuenciales\\src\\ejr01\\ejr01\\Program.cs",
+              "RelativeDocumentMoniker": "ejr01\\Program.cs",
+              "ToolTip": "D:\\competencia_algoritmos\\ejercicios secuenciales\\src\\ejr01\\ejr01\\Program.cs",
+              "RelativeToolTip": "ejr01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:15:14.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
